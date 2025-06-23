@@ -4,11 +4,12 @@
 
 1. Acesse o repositório do projeto no GitHub.
    ```
-   https://github.com/EDuDz27/BestPrice-ecommerce
+   https://github.com/Pedro1325/bestprice
    ```
 3. Faça o download do projeto ou clone o repositório na sua máquina local com o comando:
    ```sh
-   git clone https://github.com/EDuDz27/BestPrice-ecommerce.git
+   git clone https://github.com/Pedro1325/bestPrice.git
+   
    ```
 
 ---
